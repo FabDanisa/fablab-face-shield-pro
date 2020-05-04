@@ -6,17 +6,21 @@
 
 ## Resumen
 
-Basado en la iniciativa [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3), nuestro diseño propone eliminar cualquier trabajo extra en las piezas que arman el escudo facial, disminuyendo la probabilidad de contaminación durante la fabricación y para que sea fácilmente ensamblable. El escudo facial está hecho para complementar el uso de la máscara facial N95 y antiparras de seguridad, dando más protección al staff médico y extendiendo el período de uso higiénico de la máscara.
+Escudo Facial Versión PRO desarrollada en colaboración con el Hospital Clínico U. de Chile. Está compuesto por una pieza impresa en 3D, una mica de 34x28 cms y un elástico. 
+Para revisar Versión Estándar pincha aquí.
+Basado en la iniciativa [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3). El escudo facial está hecho para complementar el uso de la máscara facial N95 y antiparras de seguridad, dando más protección al staff médico y extendiendo el período de uso higiénico de la máscara.
 
 ## Versión PRO
 
-El Laboratorio de Escudos Faciales solicita desarrollar una Versión PRO, para los casos de profesionales de la Salud que requieran extrema protección durante jornadas prolongadas.
+Junto con el Hospital Clínico de la U. de Chile, se desarrolla un escudo facial Versión PRO que responde a la necesidad de profesionales de la salud que requieren extrema protección en tiempos prolongados.   
 
-La versión PRO de la máscara fue generada en base a las siguientes modifaciones:
-* Correr las pestañas donde se inserta la mica para poder ubicar una más ancha (34x28 cms). Para obtener este tamaño de mica hay que cortar piegos. 
-* Extender las huinchas laterales 2 cms, para que la huincha no termine sobre la sien sino hacia la nuca.
+En relación a la Versión Estándar, la versión PRO adquiere los siguientes atributos:
+* Se trasladas y extienden las pestañas para  ubicar una más ancha (34x28 cms). 
+* Se extienden las huinchas laterales 2 cms, para que la huincha no termine sobre la sien sino hacia la nuca.
 
-Debido a que aumentó el tamaño de la máscara, en algunas impresoras 3D ya no cabe el modelo para ser impreso, por lo que se adaptó el modelo para ser impreso en pilas (uno sobre otro).
+En relación a la Versión Estándar, la versión PRO adquiere los siguientes desventajas:
+* Para obtener este tamaño de mica hay que cortar pliegos. 
+* Debido a que aumentó el tamaño de la máscara, en algunas impresoras 3D ya no cabe el modelo para ser impreso, por lo que se adaptó el modelo para ser impreso en pilas (uno sobre otro).
 
 <img src="/images/v5_4stacked_cura.png" alt="v5stacked"
 	title="v5stacked" width="800" />
@@ -38,7 +42,7 @@ V3.0	  | faceshield_fablab_uch_v3.stl	| 02-04
 V2.0    | faceshield_fablab_uch_v2.stl  | 31-03
 V1.0    | FaceShield_FabLab_UCH.stl     | 30-03
 
-Recomendamos impirmir el cintillo en PLA, pues es más fácil de imprimir, tiene una baja huella de carbono, es compostable y es suficientemente resistente. Es factible utilizar para la impresión otro filamento más resistente, como ABS o PETG, mientras sea compatible con los procesos de sanitización necesarios para la esterilización de la pieza impresa en 3D.
+Recomendamos impirmir el cintillo en PLA, pues es más fácil de imprimir, es compostable y es suficientemente resistente. Es factible utilizar para la impresión otro filamento más resistente, como ABS o PETG, mientras sea compatible con los procesos de sanitización necesarios para la esterilización de la pieza impresa en 3D.
 
 El cintillo consiste en dos bandas de diferente largo unidas en sus extremos. La banda interior rodea la cabeza, mientras que la externa sostiene la lámina transparente mediante ajustes a presión, distanciandola de la cara para dar espacio a lentes y antiparras, también para evitar el empañamiento de la lámina por la respiración. En sus puntas posee ganchos para afirmarse el cintillo a la cabeza mediante un elástico u otro sistema que les acomode.
 
